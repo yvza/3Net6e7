@@ -1,0 +1,7 @@
+{
+    "require": {
+        "fabpot/goutte": "^3.2",
+        "symfony/dom-crawler": "^4.2",
+        "symfony/css-selector": "^4.2"
+    }
+}
